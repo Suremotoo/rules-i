@@ -1,0 +1,38 @@
+# NAME: OpenAI
+# UPDATED: 2024-01-09
+
+# OpenAI
+HOST,browser-intake-datadoghq.com,AaaI
+HOST,static.cloudflareinsights.com,AaaI
+HOST-SUFFIX,ai.com,AaaI
+HOST-SUFFIX,algolia.net,AaaI
+HOST-SUFFIX,api.statsig.com,AaaI
+HOST-SUFFIX,auth0.com,AaaI
+HOST-SUFFIX,cdn.cloudflare.net,AaaI
+HOST-SUFFIX,challenges.cloudflare.com,AaaI
+HOST-SUFFIX,chatgpt.livekit.cloud,AaaI
+HOST-SUFFIX,client-api.arkoselabs.com,AaaI
+HOST-SUFFIX,events.statsigapi.net,AaaI
+HOST-SUFFIX,featuregates.org,AaaI
+HOST-SUFFIX,host.livekit.cloud,AaaI
+HOST-SUFFIX,identrust.com,AaaI
+HOST-SUFFIX,intercom.io,AaaI
+HOST-SUFFIX,intercomcdn.com,AaaI
+HOST-SUFFIX,launchdarkly.com,AaaI
+HOST-SUFFIX,oaistatic.com,AaaI
+HOST-SUFFIX,oaiusercontent.com,AaaI
+HOST-SUFFIX,observeit.net,AaaI
+HOST-SUFFIX,poe.com,AaaI
+HOST-SUFFIX,segment.io,AaaI
+HOST-SUFFIX,sentry.io,AaaI
+HOST-SUFFIX,stripe.com,AaaI
+HOST-SUFFIX,turn.livekit.cloud,AaaI
+HOST-KEYWORD,openai,AaaI
+
+# Claude
+HOST,cdn.usefathom.com,AaaI
+HOST-SUFFIX,anthropic.com,AaaI
+HOST-SUFFIX,claude.ai,AaaI
+
+# Gemini
+HOST-SUFFIX,generativelanguage.googleapis.com, AaaI
